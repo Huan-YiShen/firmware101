@@ -5,3 +5,5 @@
 // of an electrical signal by varying the width of its pulses
 // useful when fine volteage control is needed
 
+// PWM is NOT a communication protocol, it is a digital modulation scheme (that can be 
+// logically interpretated as an analogue signal), it is lower level than protocols. 
